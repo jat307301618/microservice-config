@@ -4,7 +4,7 @@ spring:
     - dev
 ---
 server:
-  port: 1001
+  port: 1004
   context-path: /
  
 # 数据源配置
@@ -41,7 +41,7 @@ info:
    联系电话: 110
 ---
 server:
-  port: 1002
+  port: 1004
   context-path: /
  
 # 数据源配置
